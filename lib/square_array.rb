@@ -5,4 +5,5 @@ def square_array(array)
     buffer.push((array[counter])**2)
     counter+=1
   end
+  return buffer
 end
